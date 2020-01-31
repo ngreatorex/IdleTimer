@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Authors>Neil Greatorex</Authors>
+    <Product>IdleTimer</Product>
+    <Copyright>Copyright 2020 Neil Greatorex</Copyright>
+    <PackageLicenseExpression>Apache</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>
