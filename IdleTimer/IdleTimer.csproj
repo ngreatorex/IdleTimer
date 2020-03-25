@@ -8,6 +8,8 @@
     <Product>IdleTimer</Product>
     <Copyright>Copyright 2020 Neil Greatorex</Copyright>
     <PackageLicenseExpression>Apache</PackageLicenseExpression>
+    <AssemblyVersion>0.1</AssemblyVersion>
+    <FileVersion>0.1</FileVersion>
   </PropertyGroup>
 
 </Project>
