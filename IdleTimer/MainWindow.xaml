@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:IdleTimer"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800" d:DataContext="{d:DesignInstance Type=local:MainWindowViewModel,IsDesignTimeCreatable=True}">
+        Topmost="True"
+        Title="MainWindow" Height="150" Width="400" d:DataContext="{d:DesignInstance Type=local:MainWindowViewModel,IsDesignTimeCreatable=True}">
     <Grid>
         <Viewbox>
             <TextBlock Text="{Binding IdleTime, StringFormat={}{0:hh\\\:mm\\:ss}}"/>
